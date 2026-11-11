@@ -186,7 +186,7 @@ Para ver los datos que se insertaron en cada tabla:
 ```
 
 <p align="center">
-  <img width="840" src="Relational/capturas/consulta1.png" alt="Consulta 1 en Relational" />
+  <img width="1568" height="426" alt="image" src="https://github.com/user-attachments/assets/3401ff15-bb08-4260-8fa8-ed2a3a00aef9" />
 </p>
 
 * Figura 3. Resultado de la consulta 1 en Relational.
@@ -214,7 +214,7 @@ WHERE nombre_curso = 'Ciencias de la Salud'
 ```
 
 <p align="center">
-  <img width="840" src="Relational/capturas/consulta2.png" alt="Consulta 2 en Relational" />
+  <img width="1568" height="450" alt="image" src="https://github.com/user-attachments/assets/eff53331-b0a5-460f-ad45-7241481512b6" />
 </p>
 
 * Figura 4. Resultado de la consulta 2 en Relational.
@@ -240,7 +240,7 @@ WHERE estado_matricula = 'ACTIVA'
 ```
 
 <p align="center">
-  <img width="840" src="Relational/capturas/consulta3.png" alt="Consulta 3 en Relational" />
+  <img width="1568" height="479" alt="image" src="https://github.com/user-attachments/assets/8f635139-f69b-48ce-974d-55a9f2a286cf" />
 </p>
 
 * Figura 5. Resultado de la consulta 3 en Relational.
@@ -269,7 +269,7 @@ WHERE NOT EXISTS (
 ```
 
 <p align="center">
-  <img width="840" src="Relational/capturas/consulta4.png" alt="Consulta 4 en Relational" />
+  <img width="1568" height="497" alt="image" src="https://github.com/user-attachments/assets/65255b11-dc9e-45cf-8c63-24bb0727ab7e" />
 </p>
 
 * Figura 6. Resultado de la consulta 4 en Relational.
@@ -295,7 +295,7 @@ WHERE id_estudiante IN (SELECT id_estudiante FROM RESULTADO WHERE puntaje >= 750
 ```
 
 <p align="center">
-  <img width="840" src="Relational/capturas/consulta5.png" alt="Consulta 5 en Relational" />
+  <img width="1568" height="512" alt="image" src="https://github.com/user-attachments/assets/79537cc9-e852-4759-b57f-2ef7e49d849a" />
 </p>
 
 * Figura 7. Resultado de la consulta 5 en Relational.
