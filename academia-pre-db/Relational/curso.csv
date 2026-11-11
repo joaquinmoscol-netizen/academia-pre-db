@@ -1,0 +1,6 @@
+id_curso,nombre_curso,jornada,costo,id_docente
+1,Ciencias de la Salud,MATUTINA,450,1
+2,Ciencias de la Salud,VESPERTINA,450,3
+3,Ingenierias,MATUTINA,420,2
+4,Ciencias Sociales,FIN_DE_SEMANA,350,4
+5,Ciencias Economicas,VESPERTINA,350,5
