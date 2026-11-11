@@ -64,7 +64,8 @@ Diseñar una base de datos relacional en MySQL para registrar los cursos, matrí
 ### 4.2. Modelo Relacional
 
 <p align="center">
-  <img width="100%" src="Modelo%20relacional/rel.png" alt="Modelo relacional" />
+  <img width="1568" height="683" alt="image" src="https://github.com/user-attachments/assets/127beab5-15df-44bc-b810-a683cf5b9823" />
+
 </p>
 
 <p align="center">
